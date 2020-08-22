@@ -1,0 +1,10 @@
+E:\Timer\Timer\Timer\bin\Debug\Timer.exe.config
+E:\Timer\Timer\Timer\bin\Debug\Timer.exe
+E:\Timer\Timer\Timer\bin\Debug\Timer.pdb
+E:\Timer\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+E:\Timer\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+E:\Timer\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+E:\Timer\Timer\Timer\obj\Debug\Timer.exe
+E:\Timer\Timer\Timer\obj\Debug\Timer.pdb
+E:\Timer\Timer\Timer\obj\Debug\Timer.TimerClass.resources
+E:\Timer\Timer\Timer\obj\Debug\Timer.MyTime.resources
